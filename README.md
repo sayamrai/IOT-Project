@@ -1,4 +1,4 @@
-# RFID-Based Door Lock System 🔒
+# RFID-Based Door Lock System 
 
 An IoT-based smart door lock system using RFID technology and Arduino, designed for secure, contactless access control.
 
